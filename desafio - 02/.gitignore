@@ -1,0 +1,21 @@
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Histórico pessoal da calculadora
+historico_calculos.json
+
+# Arquivos temporários de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
